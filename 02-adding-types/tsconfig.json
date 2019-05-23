@@ -1,0 +1,18 @@
+{ 
+    "compilerOptions": {
+        "target": "es3",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "alwaysStrict": false,
+        "experimentalDecorators": false,
+        "sourceMap": false,
+        "strictBindCallApply": false,
+        "noImplicitAny": false,
+        "strictNullChecks": false,
+        "noImplicitReturns": false,
+        "noImplicitThis": false,
+    },
+    "files": [
+        "./index.ts"
+    ],
+}

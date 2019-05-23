@@ -1,0 +1,4 @@
+*.js
+!webpack.*.js
+*.map
+node_modules

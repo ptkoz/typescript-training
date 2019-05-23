@@ -1,0 +1,13 @@
+{
+    "extends": [
+        "tslint:recommended",
+        "tslint-react"
+    ],
+    "rules": {
+        "one-line": [true, "check-catch", "check-finally", "check-else", "check-whitespace"],
+        "ordered-imports": false,
+        "object-literal-sort-keys": false,
+        "jsx-no-multiline-js": false,
+        "interface-name": false
+    }
+}
